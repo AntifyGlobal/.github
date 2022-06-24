@@ -10,3 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Donation: 
+
+BTC -> 
+ETH -> 0xfbF2DD4642fc2C50aeDEf7baD7dA73d20c09E961
+BNB -> 0xfbF2DD4642fc2C50aeDEf7baD7dA73d20c09E961
